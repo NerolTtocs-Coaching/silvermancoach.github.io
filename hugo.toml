@@ -1,7 +1,7 @@
 baseURL = 'https://silvermancoach.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+title = 'silvermancoach'
+theme = 'hero'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
